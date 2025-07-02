@@ -1,7 +1,7 @@
 ssh -o StrictHostKeyChecking=no azureuser@74.235.97.224 <<HTML
     
-    cd /home/azyreuser/practicas-ga
+    cd /home/azureuser/deploy-azure-cf
 
-    git pull --rebase origin main
+    git pull --rebase origin master
 
 HTML
