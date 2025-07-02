@@ -1,5 +1,5 @@
 node_modules
 coverage
 dist
-azure-key
-azure-key.pub
+azure-key*
+id_rsa*
